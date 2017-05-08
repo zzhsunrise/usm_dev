@@ -3,9 +3,9 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/backend" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/backend-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/backend-service/backend-service-impl" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/backend-service/backend-service-inter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/backend-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/backend-service/backend-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/backend-service/backend-service-inter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/frontend" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/utilTools" charset="UTF-8" />
   </component>

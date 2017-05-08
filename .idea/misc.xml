@@ -4,8 +4,8 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/backend-service/backend-service-impl" />
-    <file type="web" url="file://$PROJECT_DIR$/backend-service/backend-service-inter" />
+    <file type="web" url="file://$PROJECT_DIR$/backend/backend-service/backend-service-impl" />
+    <file type="web" url="file://$PROJECT_DIR$/backend/backend-service/backend-service-inter" />
     <file type="web" url="file://$PROJECT_DIR$/usm-api" />
     <file type="web" url="file://$PROJECT_DIR$/usm-service" />
     <file type="web" url="file://$PROJECT_DIR$/usm-web" />

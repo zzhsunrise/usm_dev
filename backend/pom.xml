@@ -12,7 +12,7 @@
     <artifactId>backend</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>../backend-service</module>
+        <module>backend-service</module>
     </modules>
 
     <properties>
