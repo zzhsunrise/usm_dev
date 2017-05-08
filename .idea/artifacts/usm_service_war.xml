@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="usm-service:war">
+    <output-path>$PROJECT_DIR$/usm-service/target</output-path>
+    <root id="archive" name="usm-service.war">
+      <element id="artifact" artifact-name="usm-service:war exploded" />
+    </root>
+  </artifact>
+</component>

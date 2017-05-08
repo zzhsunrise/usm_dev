@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-service/backend-service.iml" filepath="$PROJECT_DIR$/backend-service/backend-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-service/backend-service-impl/backend-service-impl.iml" filepath="$PROJECT_DIR$/backend-service/backend-service-impl/backend-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-service/backend-service-inter/backend-service-inter.iml" filepath="$PROJECT_DIR$/backend-service/backend-service-inter/backend-service-inter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilTools/common/common.iml" filepath="$PROJECT_DIR$/utilTools/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usm.iml" filepath="$PROJECT_DIR$/usm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilTools/utilTools.iml" filepath="$PROJECT_DIR$/utilTools/utilTools.iml" />
+    </modules>
+  </component>
+</project>

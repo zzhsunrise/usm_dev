@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="usm-impl:war exploded">
+    <output-path>$PROJECT_DIR$/usm-service/usm-impl/target/usm-impl</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="usm-impl" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="F:\workspace\usm\usm-service\usm-impl\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="usm-impl/web/Web" />
+    </root>
+  </artifact>
+</component>
